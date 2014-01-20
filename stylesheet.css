@@ -1,0 +1,8 @@
+.panel-workspace-indicator {
+	padding: 2px 0;
+}
+.panel-workspace-indicator-label {
+	padding: 0 6px;
+	background: rgba(200,200,200,0.4);
+	border-radius: 4px;
+}
